@@ -1,5 +1,5 @@
 
-public class Rectangulo_CM extends FiguraGeometrica_CM {
+public class Rectangulo_AMM extends FiguraGeometrica_AMM {
 	private double l1;
 	private double l2;
 	
