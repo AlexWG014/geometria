@@ -1,10 +1,10 @@
 
-public class Triangulo_CM extends FiguraGeometrica_CM {
+public class Triangulo_AMM extends FiguraGeometrica_AMM {
 	private double lado1;
 	private double b;
 	private double c;
 	
-	public Triangulo_CM(String tipoFigura, double lado1, double lado2, double lado3) {
+	public Triangulo_AMM(String tipoFigura, double lado1, double lado2, double lado3) {
 		super(tipoFigura);
 		lado1 = lado1;
 		b = lado2;
