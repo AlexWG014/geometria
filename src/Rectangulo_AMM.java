@@ -38,3 +38,4 @@ public class Rectangulo_CM extends FiguraGeometrica_AMM {
 	}
 
 }
+
