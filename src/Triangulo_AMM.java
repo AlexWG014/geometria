@@ -25,3 +25,4 @@ public class Triangulo_AMM extends FiguraGeometrica_AMM {
 	
 	
 }
+
