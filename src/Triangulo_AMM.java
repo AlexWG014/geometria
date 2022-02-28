@@ -1,5 +1,5 @@
 
-public class Triangulo_CM extends FiguraGeometrica_CM {
+public class Triangulo_AMM extends FiguraGeometrica_AMM {
 	private double lado1;
 	private double lado2;
 	private double lado3;
